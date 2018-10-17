@@ -1,0 +1,42 @@
+.container {
+    padding-left: 10vw;
+    padding-right: 10vw;
+}
+
+.highlight {
+    background-color: black;
+    color: white;
+}
+
+* {
+    font-family: Arial, Helvetica;
+}
+
+*::selection {
+    background-color: #b10f0f;
+    color: white;
+}
+
+.date {
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+    width: 30vw;
+}
+
+article {
+    line-height: 1.3;
+    margin-bottom: 50px;
+}
+
+article > div {
+    border-left: 4px solid #c30d0d;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+
+p {
+    font-size: 16.5px;
+}
