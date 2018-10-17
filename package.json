@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "my personal blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheWWWorm/thewwworm.github.io.git"
+  },
+  "author": "Deniss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheWWWorm/thewwworm.github.io/issues"
+  },
+  "homepage": "https://github.com/TheWWWorm/thewwworm.github.io#readme"
+}
