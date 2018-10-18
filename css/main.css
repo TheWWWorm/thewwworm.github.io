@@ -23,7 +23,6 @@
 
 h1 {
     text-align: center;
-    width: 30vw;
 }
 
 article {
@@ -33,7 +32,6 @@ article {
 
 article > div {
     border-left: 4px solid #c30d0d;
-    margin-left: 10px;
     padding-left: 10px;
 }
 
@@ -54,4 +52,14 @@ p {
     100% {
       background-color: #cecece;
     }
-  }
+}
+
+@media (min-width: 767px) {
+    h1 {
+        width: 30vw;
+    }
+
+    article > div {
+        margin-left: 10px;
+    }
+}
