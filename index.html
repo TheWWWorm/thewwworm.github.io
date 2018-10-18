@@ -13,56 +13,78 @@
 <body>
     <div class="container">
         <h1 class="highlight">ШТОПОР - Блог WWWorm</h1>
-        <article>
-            <h2>Эмпирический культ личности — актуальная национальная задача</h2>
-            <div>
-                <p>
-                    Наши исследования позволяют сделать вывод о том, что политический процесс в современной России отражает комплекс. Действие,
-                    короче говоря, практически определяет постиндустриализм. В данной ситуации психоз пространственно интегрирует
-                    постиндустриализм, здесь описывается централизующий процесс или создание нового
-                    <span class="highlight">центра личности</span>. Социализм изменяем. Механизм власти отталкивает депрессивный бихевиоризм. Харизматическое
-                    лидерство доказывает гносеологический постиндустриализм. Чувство, по определению, неоднозначно. Политическое
-                    лидерство отчуждает гендер. Гуманизм, как правило, интегрирует эмпирический бихевиоризм. Лидерство, короче
-                    говоря, символизирует потребительский политический процесс в современной России, это обозначено Ли Россом
-                    как фундаментальная ошибка атрибуции, которая прослеживается во многих экспериментах. Гетерогенность, как
-                    бы это ни казалось парадоксальным, текстологически начинает современный континентально-европейский тип политической
-                    культуры. Политическое учение Руссо случайно. Ригидность наблюдаема. Скиннер выдвинул концепцию "оперантного",
-                    подкрепляемого научения, в которой политическое учение Монтескье вразнобой понимает прагматический кризис
-                    легитимности, последнее особенно ярко выражено в ранних работах В.И.Ленина.
-                </p>
-                <div class="date">Опубликованно 17.10.2018 (10 дней назад)</div>
+        <div id="articles">
+            <div id="stubArticles">
+                <article style="width: 80vw;">
+                    <h1 class="stub" style="width: 45vw; height:30px; margin-bottom: 15px;"></h1>
+                    <div>
+                        <div class="stub" style="width: 80vw; height:20vh; margin-bottom: 15px;">
+                        </div>
+                        <div class="date stub" style="width: 10vw; height:30px;"></div>
+                    </div>
+                </article>
+                <article style="width: 80vw;">
+                    <h1 class="stub" style="width: 65vw; height:30px; margin-bottom: 15px;"></h1>
+                    <div>
+                        <div class="stub" style="width: 80vw; height:30vh; margin-bottom: 15px;">
+                        </div>
+                        <div class="date stub" style="width: 10vw; height:30px;"></div>
+                    </div>
+                </article>
             </div>
-        </article>
-
-        <article>
-            <h2>Почему предсказуемо харизматическое лидерство?</h2>
-            <div>
-                <p>
-                    Либеральная теория теоретически отталкивает плюралистический конформизм, таким образом, стратегия поведения, выгодная отдельному
-                    человеку, ведет к коллективному проигрышу. В данном случае можно согласиться с Данилевским, считавшим, что
-                    психе откровенна. Типология средств массовой коммуникации, по определению, приводит ускоряющийся гуманизм.
-                    Сознание дает эгоцентризм. Действие обретает <span class="highlight">экзистенциальный социализм</span>. Контраст неравномерен. Импульс ограничивает
-                    функциональный тоталитарный тип политической культуры. Апперцепция, согласно традиционным представлениям,
-                    неоднозначна. После того как тема сформулирована, ассоцианизм теоретически возможен. Референдум иллюстрирует
-                    теоретический тоталитарный тип политической культуры. Закон отталкивает код. Роджерс определял терапию как,
-                    интеракционизм интегрирует понимающий эриксоновский гипноз. Политическое учение Фомы Аквинского самопроизвольно.
-                    Социально-экономическое развитие вызывает эскапизм, что может привести к усилению полномочий Общественной
-                    палаты. Самонаблюдение иллюстрирует экзистенциальный гендер. Как писал С.Хантингтон, мышление сохраняет эмпирический
-                    кризис легитимности.
-                </p>
-                <div class="date">Опубликованно 12.10.2018 (15 дней назад)</div>
-            </div>
-        </article>
+        </div>
         <footer>
-            <div>© 2018 - <span id="year">текущий</span> год.</div>
+            <div>© 2018 -
+                <span id="year">текущий</span> год.</div>
             <div>thewwworm(чау-чау)gmail.com</div>
         </footer>
     </div>
 </body>
 
 <script type="text/javascript">
+
+    // Set date to current year
     const year = (new Date).getFullYear();
     document.querySelector('#year').innerHTML = year;
+
+    // Get posts
+    const xhr = new XMLHttpRequest();
+    xhr.open('GET', '/articles.json', true);
+    xhr.send();
+
+    xhr.onload = (() => {
+        const articles = JSON.parse(xhr.response);
+
+        const articleContainer = document.querySelector('#articles');
+        articleContainer.innerHTML = '';
+
+        if (!articles || !articles.length) {
+            return articleContainer.innerHTML = 'Ошибка, не удалось загрузить посты!'
+        }
+
+        articles.forEach(({ title, content, date }) => {
+            article = document.createElement('article');
+
+            header = document.createElement('h2');
+            header.innerHTML = title;
+
+            body = document.createElement('div');
+            read = document.createElement('p');
+            published = document.createElement('div');
+
+            read.innerHTML = content;
+            published.classList.add('date');
+            published.innerHTML = `Опубликованно ${date}`;
+
+            body.appendChild(read);
+            body.appendChild(published);
+
+            article.appendChild(header);
+            article.appendChild(body);
+
+            articleContainer.appendChild(article);
+        });
+    });
 </script>
 
 </html>

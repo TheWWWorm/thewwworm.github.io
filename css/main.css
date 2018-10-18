@@ -18,7 +18,7 @@
 }
 
 .date {
-    text-align: right;
+    float: right;
 }
 
 h1 {
@@ -40,3 +40,18 @@ article > div {
 p {
     font-size: 16.5px;
 }
+
+.stub {
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    animation: pulse 1s ease-in-out infinite alternate;
+}
+
+@keyframes pulse {
+    0% {
+      background-color: #e0e0e0;
+    }
+    100% {
+      background-color: #cecece;
+    }
+  }
