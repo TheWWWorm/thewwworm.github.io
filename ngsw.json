@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1632387373344,
+  "timestamp": 1632388146463,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -248,9 +248,9 @@
     "/assets/icons/icon_water.jpg": "f8212c40ae1737f3ec66c23b7f13a1f1d72c51ba",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
-    "/index.html": "9c2a012698d9afb766af1cfeb20cad716be71f0a",
+    "/index.html": "8ba817848518c771913841e99fea80cd3ed7f437",
     "/main.cec6642f479cf4eac6c7.js": "5ea29d9adb1f90f1dd10d601553239a7847119af",
-    "/manifest.webmanifest": "aa3b15d381f06cc0ceb386d401dda7c80458c39b",
+    "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
     "/styles.864f94ea1532595b5417.css": "3644515af67fc85b2d4f81c1e1ba8be05c380caf"
