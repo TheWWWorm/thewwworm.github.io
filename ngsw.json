@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1632387145933,
+  "timestamp": 1632387373344,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -250,7 +250,7 @@
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
     "/index.html": "9c2a012698d9afb766af1cfeb20cad716be71f0a",
     "/main.cec6642f479cf4eac6c7.js": "5ea29d9adb1f90f1dd10d601553239a7847119af",
-    "/manifest.webmanifest": "dc63d558333421c78349ef08090b08d2756fa632",
+    "/manifest.webmanifest": "aa3b15d381f06cc0ceb386d401dda7c80458c39b",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
     "/styles.864f94ea1532595b5417.css": "3644515af67fc85b2d4f81c1e1ba8be05c380caf"
