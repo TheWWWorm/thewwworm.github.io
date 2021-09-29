@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1632419968515,
+  "timestamp": 1632938357555,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.89ab28f513bc19d11799.js",
+        "/main.5c7ee2625b22485c09e4.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -93,7 +93,7 @@
         "/assets/CharacterPortraits/Ranpang.png",
         "/assets/CharacterPortraits/Rie.png",
         "/assets/CharacterPortraits/Rue.png",
-        "/assets/CharacterPortraits/Scintillia.png",
+        "/assets/CharacterPortraits/Scintilla.png",
         "/assets/CharacterPortraits/Shapira.png",
         "/assets/CharacterPortraits/Sohee.png",
         "/assets/CharacterPortraits/Tinia.png",
@@ -207,7 +207,7 @@
     "/assets/CharacterPortraits/Ranpang.png": "96df8a1f28b58f82b8a4d4e280923a80cdaa4b76",
     "/assets/CharacterPortraits/Rie.png": "e0db8c5c045d42d41600245c46c589f96191b6f3",
     "/assets/CharacterPortraits/Rue.png": "a4b4267763917b93de76b33aa282353a4c27a90c",
-    "/assets/CharacterPortraits/Scintillia.png": "5b59a8a2654da22f6b29e2a746aaec2e8570c0c5",
+    "/assets/CharacterPortraits/Scintilla.png": "5b59a8a2654da22f6b29e2a746aaec2e8570c0c5",
     "/assets/CharacterPortraits/Shapira.png": "d7d48b0fc232db6eaf277c6167a24175cd3f7d54",
     "/assets/CharacterPortraits/Sohee.png": "4f8b8c02c93d11ef4b658deb70f28a9e46878b20",
     "/assets/CharacterPortraits/Tinia.png": "f71728e39469a2e8f43a5c955595bffa80f4a81a",
@@ -250,8 +250,8 @@
     "/assets/icons/icon_water.jpg": "f8212c40ae1737f3ec66c23b7f13a1f1d72c51ba",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
-    "/index.html": "6bb4a0d618d71c0a3ddd774c7f51f8afb223aed0",
-    "/main.89ab28f513bc19d11799.js": "d7cc520888310fb655f1d3cab51fac14d703cc7d",
+    "/index.html": "e1fd19113da2b60fe06c7c0c8e82991d952cd58e",
+    "/main.5c7ee2625b22485c09e4.js": "e655baef9b8e0d2a87a836cb700c566d2cdff735",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
