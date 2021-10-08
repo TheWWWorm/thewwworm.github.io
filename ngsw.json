@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1633673149612,
+  "timestamp": 1633716052894,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.f6e54e3f289c8bd35241.js",
+        "/main.8a7c72fd80547cdc701d.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -129,6 +129,9 @@
         "/assets/favicon.png",
         "/assets/grid_back.png",
         "/assets/grid_center.jpeg",
+        "/assets/icons/airborne.png",
+        "/assets/icons/all.png",
+        "/assets/icons/downed.png",
         "/assets/icons/icon-192x192.png",
         "/assets/icons/icon-256x256.png",
         "/assets/icons/icon-384x384.png",
@@ -144,6 +147,7 @@
         "/assets/icons/icon_tank.jpg",
         "/assets/icons/icon_warrior.jpg",
         "/assets/icons/icon_water.jpg",
+        "/assets/icons/injured.png",
         "/assets/logo.png",
         "/assets/red_tile.png"
       ],
@@ -253,6 +257,9 @@
     "/assets/favicon.png": "470944285ed3b40dc08f9eff3b9a33f1d5d68779",
     "/assets/grid_back.png": "c4575dadb6ce2936e7dcdfc9e03b22a50c257627",
     "/assets/grid_center.jpeg": "c7ab6873b40a9bcf1f4df525ba7ffecf83c7c73c",
+    "/assets/icons/airborne.png": "63e4d6657aeb0bc36e310d048033f4ee31e54751",
+    "/assets/icons/all.png": "12824749e459b60998ced7b1b1f34d348fa83508",
+    "/assets/icons/downed.png": "6fa27922a15f2dc5cf2d83774a43867246b6d75e",
     "/assets/icons/icon-192x192.png": "c597ef5fe5dcdf6616aa03dfa7c41bc4b0fcad86",
     "/assets/icons/icon-256x256.png": "5d3f503c5131d57dbf2b246ade1850fc70e4f4a5",
     "/assets/icons/icon-384x384.png": "93e780ce73affcb494be9638402227841f2a6a1d",
@@ -268,10 +275,11 @@
     "/assets/icons/icon_tank.jpg": "65d0ed7fbcc0f872041d457b5cf948ffd9cdbcfe",
     "/assets/icons/icon_warrior.jpg": "101d603b52fb88665324e7858ab1e8142d420230",
     "/assets/icons/icon_water.jpg": "f8212c40ae1737f3ec66c23b7f13a1f1d72c51ba",
+    "/assets/icons/injured.png": "3436d47d77bbeb5d1d73f2c8b69c5c2e59be95db",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
-    "/index.html": "b905d73d7227959db5da67329db7a4bcc3e6040d",
-    "/main.f6e54e3f289c8bd35241.js": "2cdb835a876e7492c7f1ca382cd76ecc5d9b6820",
+    "/index.html": "ddfe8084c7a75f5f947daec630949f55208a300c",
+    "/main.8a7c72fd80547cdc701d.js": "59063e4b165b2892677730f90366a1b38fe8ac8a",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
