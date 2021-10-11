@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1633985751827,
+  "timestamp": 1633985993181,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -114,11 +114,11 @@
         "/assets/CharacterPortraitsJP/Elvira.png",
         "/assets/CharacterPortraitsJP/Eva.png",
         "/assets/CharacterPortraitsJP/Favi.png",
+        "/assets/CharacterPortraitsJP/Female Knight.png",
         "/assets/CharacterPortraitsJP/Girgas.png",
         "/assets/CharacterPortraitsJP/Gremory.png",
         "/assets/CharacterPortraitsJP/Hekate.png",
         "/assets/CharacterPortraitsJP/Karina.png",
-        "/assets/CharacterPortraitsJP/Knight.png",
         "/assets/CharacterPortraitsJP/Lahn.png",
         "/assets/CharacterPortraitsJP/Lapice.png",
         "/assets/CharacterPortraitsJP/Lavi.png",
@@ -270,11 +270,11 @@
     "/assets/CharacterPortraitsJP/Elvira.png": "1006c5fb466161b17036c10f967d77d179b20a8c",
     "/assets/CharacterPortraitsJP/Eva.png": "9f0586acdb2922cf99db53aca6883acccf429eda",
     "/assets/CharacterPortraitsJP/Favi.png": "34cb8e7a5d09386ddb09dac835545b4c85cce5fb",
+    "/assets/CharacterPortraitsJP/Female Knight.png": "aefd7f9268958608cf66f2acf6be0cb9aa6152be",
     "/assets/CharacterPortraitsJP/Girgas.png": "d7015479dcdcb69b4664f29325a9cf85b87b50d1",
     "/assets/CharacterPortraitsJP/Gremory.png": "cb71d97b955eb5e066a6aa1a98b6059ba32beab5",
     "/assets/CharacterPortraitsJP/Hekate.png": "90e79db5ed392bca6064314da097f2ff79424437",
     "/assets/CharacterPortraitsJP/Karina.png": "c20b4cd03ab51e7744c31ca94a96bddc176aa5df",
-    "/assets/CharacterPortraitsJP/Knight.png": "aefd7f9268958608cf66f2acf6be0cb9aa6152be",
     "/assets/CharacterPortraitsJP/Lahn.png": "e5277ae6106438c2ddc7ca173c64dd57ff4dd570",
     "/assets/CharacterPortraitsJP/Lapice.png": "71ab3f40ee0c0a5b39fb5a87a61c79349cf5bf9d",
     "/assets/CharacterPortraitsJP/Lavi.png": "aa893090c2a23906ac3302f05fc95d19fb1d38f0",
