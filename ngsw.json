@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1634462547735,
+  "timestamp": 1634490318978,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.e24dac0fa371dcaa5795.js",
+        "/main.5657dbaf4bc7392b5afe.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -154,6 +154,9 @@
         "/assets/element_icons_transparent/fire.png",
         "/assets/element_icons_transparent/light.png",
         "/assets/element_icons_transparent/water.png",
+        "/assets/external_brand_icons/Discord-Logo-Black.png",
+        "/assets/external_brand_icons/Discord-Logo-Color.png",
+        "/assets/external_brand_icons/Kofi_pixel_logo.png",
         "/assets/favicon.png",
         "/assets/grid_back.png",
         "/assets/grid_center.jpeg",
@@ -313,6 +316,9 @@
     "/assets/element_icons_transparent/fire.png": "4cd20dd40768b646604c3ecc3725a3b0388517b9",
     "/assets/element_icons_transparent/light.png": "aa26b4640a75c213aeb57b8c314b575341c3f5e8",
     "/assets/element_icons_transparent/water.png": "7a8462e7cc089294106f0130d7971bbf4b5e8c9c",
+    "/assets/external_brand_icons/Discord-Logo-Black.png": "3c88d9d6c435e2647b6e42505692eb9a1777dfea",
+    "/assets/external_brand_icons/Discord-Logo-Color.png": "9f3a9d178fc3347c3b354b01ffbc36d3165dfea9",
+    "/assets/external_brand_icons/Kofi_pixel_logo.png": "0b6b3da0615f92aef078cc391c74f744170fec2a",
     "/assets/favicon.png": "470944285ed3b40dc08f9eff3b9a33f1d5d68779",
     "/assets/grid_back.png": "c4575dadb6ce2936e7dcdfc9e03b22a50c257627",
     "/assets/grid_center.jpeg": "c7ab6873b40a9bcf1f4df525ba7ffecf83c7c73c",
@@ -340,8 +346,8 @@
     "/assets/icons/question_mark.png": "7343d52a419170ce4b1f90e6eba2700961410fd0",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
-    "/index.html": "a594e6b0940fcf9931dc6519a964fc32e5c903fb",
-    "/main.e24dac0fa371dcaa5795.js": "8b9c94739a829b75097c2f94d10413e7ee0651f0",
+    "/index.html": "c410cb2e5772bd01217a085b0c280672d0527167",
+    "/main.5657dbaf4bc7392b5afe.js": "c048cf4269b68a4c580b64b6ab00b0669aaa3dfc",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
