@@ -1,18 +1,18 @@
 {
   "configVersion": 1,
-  "timestamp": 1634491823837,
+  "timestamp": 1634492500518,
   "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
-      "installMode": "prefetch",
-      "updateMode": "prefetch",
+      "installMode": "lazy",
+      "updateMode": "lazy",
       "cacheQueryOptions": {
         "ignoreVary": true
       },
       "urls": [
         "/index.html",
-        "/main.36b20347d7baf7c2e722.js",
+        "/main.4bec51d8c0e5f5065b9a.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -346,8 +346,8 @@
     "/assets/icons/question_mark.png": "7343d52a419170ce4b1f90e6eba2700961410fd0",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
-    "/index.html": "109c57f0baa8ab9699e193dc7612efd312a28a08",
-    "/main.36b20347d7baf7c2e722.js": "92445b1be02ded1aceb7de59501edb8e58713a62",
+    "/index.html": "3e648877a1f1f6f5575070c9d99e4504cba509f9",
+    "/main.4bec51d8c0e5f5065b9a.js": "cbc6136daf7482c1540f791151d30842868c5671",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
