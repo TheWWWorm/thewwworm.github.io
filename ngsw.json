@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1634133135847,
+  "timestamp": 1634456392969,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.2aa18ee65c979c278d76.js",
+        "/main.9b4c03f27faa8038ece8.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -172,7 +172,7 @@
         "/assets/icons/icon_lead.png",
         "/assets/icons/icon_light.jpg",
         "/assets/icons/icon_ranged.jpg",
-        "/assets/icons/icon_summoner.jpeg",
+        "/assets/icons/icon_summoner.jpg",
         "/assets/icons/icon_support.jpg",
         "/assets/icons/icon_tank.jpg",
         "/assets/icons/icon_warrior.jpg",
@@ -331,7 +331,7 @@
     "/assets/icons/icon_lead.png": "096186c6e4d41ec40bb49537d1684bdf44c8d7a6",
     "/assets/icons/icon_light.jpg": "afdf2d83cc9c5dc9191042f030f2478eaab72b2c",
     "/assets/icons/icon_ranged.jpg": "cf6ea079b789cb5a9553b4f13398544e2bf1d5f9",
-    "/assets/icons/icon_summoner.jpeg": "a02515c14f5151427742f909a2e417b2433825bd",
+    "/assets/icons/icon_summoner.jpg": "a02515c14f5151427742f909a2e417b2433825bd",
     "/assets/icons/icon_support.jpg": "59285082831c5cb37c0589c413614b96f362cfd5",
     "/assets/icons/icon_tank.jpg": "65d0ed7fbcc0f872041d457b5cf948ffd9cdbcfe",
     "/assets/icons/icon_warrior.jpg": "101d603b52fb88665324e7858ab1e8142d420230",
@@ -340,8 +340,8 @@
     "/assets/icons/question_mark.png": "7343d52a419170ce4b1f90e6eba2700961410fd0",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
-    "/index.html": "ea80872845792219dc634ec7123fbad0635b920c",
-    "/main.2aa18ee65c979c278d76.js": "3a9bb0f90acf7036364cd6bcd136867d2c56de55",
+    "/index.html": "ffaf7d31e5abd330274bb1cb78d80e4a0e7022cf",
+    "/main.9b4c03f27faa8038ece8.js": "10dbca45f32127cc39138312c465d29d608a81f9",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
