@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1634656578268,
+  "timestamp": 1634723349484,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.58e24d357cb06d0cefbf.js",
+        "/main.569f7e31bd3099896565.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -64,6 +64,7 @@
         "/assets/CharacterPortraits/Idol Captain Eva.png",
         "/assets/CharacterPortraits/Jack Frost.png",
         "/assets/CharacterPortraits/Kamael.png",
+        "/assets/CharacterPortraits/Kanna.png",
         "/assets/CharacterPortraits/Karina.png",
         "/assets/CharacterPortraits/Lahn.png",
         "/assets/CharacterPortraits/Lapice.png",
@@ -226,6 +227,7 @@
     "/assets/CharacterPortraits/Idol Captain Eva.png": "979fded63f1d99abdaa47512f32d4c79dee9402c",
     "/assets/CharacterPortraits/Jack Frost.png": "09ae44da55e4e7f90654a7c8b5c1b50035398da0",
     "/assets/CharacterPortraits/Kamael.png": "b4b63af5f8f0ab6d1e79010b6d5b6a83d1c88a76",
+    "/assets/CharacterPortraits/Kanna.png": "8ea47c084e47eb2ee2fc73a12406e16985bbd8c2",
     "/assets/CharacterPortraits/Karina.png": "eeeff2ee459d787746b4e2feb4710875e068b37c",
     "/assets/CharacterPortraits/Lahn.png": "b178e39f0f0812c47c11cb862e0a4dca22ab8eaf",
     "/assets/CharacterPortraits/Lapice.png": "569165da47751530f432ad6f718892e56cf31dcd",
@@ -346,8 +348,8 @@
     "/assets/icons/question_mark.png": "7343d52a419170ce4b1f90e6eba2700961410fd0",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
-    "/index.html": "1ca755cba75a66abfc80a49706586fa7ba65655a",
-    "/main.58e24d357cb06d0cefbf.js": "741399c0bdeec7d9266c3d538c494526f0e94eca",
+    "/index.html": "aec9d8f160c0e24cf6a0c7b8d6c0f5d4313288c6",
+    "/main.569f7e31bd3099896565.js": "01b2d1109808cae57cfa68cb3b2068a26d51dbe2",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
