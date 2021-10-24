@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635022999651,
+  "timestamp": 1635066092616,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.3003e5ec6ca899eb3e61.js",
+        "/main.94bfdfd5c40ab8151aa4.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -192,6 +192,7 @@
         "/assets/icons/icon_warrior.jpg",
         "/assets/icons/icon_water.jpg",
         "/assets/icons/injured.png",
+        "/assets/icons/plus.png",
         "/assets/icons/question_mark.png",
         "/assets/logo.png",
         "/assets/red_tile.png"
@@ -365,11 +366,12 @@
     "/assets/icons/icon_warrior.jpg": "101d603b52fb88665324e7858ab1e8142d420230",
     "/assets/icons/icon_water.jpg": "f8212c40ae1737f3ec66c23b7f13a1f1d72c51ba",
     "/assets/icons/injured.png": "be3ac2b0d6e647d1631470e3bea7727b6c3dd72d",
+    "/assets/icons/plus.png": "a9a5a13fabf3d0e09199284618ed992a62486c14",
     "/assets/icons/question_mark.png": "7343d52a419170ce4b1f90e6eba2700961410fd0",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
-    "/index.html": "6023c8e36c797b62a4314a265d324b5e7299fc0f",
-    "/main.3003e5ec6ca899eb3e61.js": "6fa178c5d84410b9bb413900551196a9207059e2",
+    "/index.html": "a115907163341b94bc7ccc55efb21917551d8246",
+    "/main.94bfdfd5c40ab8151aa4.js": "acb8b3b24e9930cc423642892a00ceb5819ea835",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
