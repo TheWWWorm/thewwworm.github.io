@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635279763872,
+  "timestamp": 1635430328763,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -378,7 +378,7 @@
     "/assets/icons/sword_3.png": "89f1b1cac414e7149bd4652f2e885a9bc5888e83",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
-    "/index.html": "fb175670a273a83cc48a05ce04b67135200dad2a",
+    "/index.html": "55b010632ed64bf57778191c8b22dc48de64eba6",
     "/main.8d1907348bd972a6d796.js": "831a4761490ab70759232c87ba04e4632396d938",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
