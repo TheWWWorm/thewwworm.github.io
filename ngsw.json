@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635430328763,
+  "timestamp": 1635708189558,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.8d1907348bd972a6d796.js",
+        "/main.3cc2127e41ce8ad52bb1.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -175,6 +175,7 @@
         "/assets/icons/all.png",
         "/assets/icons/chain.png",
         "/assets/icons/downed.png",
+        "/assets/icons/heart.png",
         "/assets/icons/icon-192x192.png",
         "/assets/icons/icon-256x256.png",
         "/assets/icons/icon-384x384.png",
@@ -353,6 +354,7 @@
     "/assets/icons/all.png": "750107ee6a28cdc327fd8a5a07f91d218d640c0c",
     "/assets/icons/chain.png": "f175c74c27e735b1717642084275b02132497d7b",
     "/assets/icons/downed.png": "fd8a57a00a650473d1b1048436a67fb298980730",
+    "/assets/icons/heart.png": "a0b0e7d4c3206aecb04f81d9b601f5e2d546a234",
     "/assets/icons/icon-192x192.png": "61678d10d9549531c1a5732a764b4ced19258851",
     "/assets/icons/icon-256x256.png": "4f2024b73455377e430de80ad790bb1835930d9e",
     "/assets/icons/icon-384x384.png": "cd6851e65285d3459be33dc32d7d6bfc6f43c538",
@@ -378,8 +380,8 @@
     "/assets/icons/sword_3.png": "89f1b1cac414e7149bd4652f2e885a9bc5888e83",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
-    "/index.html": "55b010632ed64bf57778191c8b22dc48de64eba6",
-    "/main.8d1907348bd972a6d796.js": "831a4761490ab70759232c87ba04e4632396d938",
+    "/index.html": "7e6b677335b219ebe020f65397e01288280bbfca",
+    "/main.3cc2127e41ce8ad52bb1.js": "7fb7bf2abefc94eb5508fb2323294acd7e3e4165",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
