@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635710018941,
+  "timestamp": 1635753513719,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.0ae779c9e4a0c70efb1c.js",
+        "/main.8b58b6f8a8ff6695e519.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -380,8 +380,8 @@
     "/assets/icons/sword_3.png": "89f1b1cac414e7149bd4652f2e885a9bc5888e83",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
-    "/index.html": "0071c1367a7d03985e9ebc629f1d4b4f5e9be777",
-    "/main.0ae779c9e4a0c70efb1c.js": "c9034d8f5c3b254e115b878a1fe119890561175b",
+    "/index.html": "a48aade0d7c7b4329fc17d69c93f7ba197d0da01",
+    "/main.8b58b6f8a8ff6695e519.js": "5b120faf14e31efe2778c1ac2fcfbf48aed5c207",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
