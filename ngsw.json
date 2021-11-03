@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1635970481001,
+  "timestamp": 1635976542618,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.2ed0a1fca2d3168c3311.js",
+        "/main.4f2f9f0720cf65909079.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -70,6 +70,7 @@
         "/assets/CharacterPortraits/Lapice.png",
         "/assets/CharacterPortraits/Lavi.png",
         "/assets/CharacterPortraits/Lilith.png",
+        "/assets/CharacterPortraits/Lion.png",
         "/assets/CharacterPortraits/Loraine.png",
         "/assets/CharacterPortraits/Lucy.png",
         "/assets/CharacterPortraits/Lupina.png",
@@ -249,6 +250,7 @@
     "/assets/CharacterPortraits/Lapice.png": "569165da47751530f432ad6f718892e56cf31dcd",
     "/assets/CharacterPortraits/Lavi.png": "308bea5e3b260ecab5cb91f3b2faf2d152c8fb27",
     "/assets/CharacterPortraits/Lilith.png": "6531a9807bc6bc8c96c5ba4f8c279efb45094e21",
+    "/assets/CharacterPortraits/Lion.png": "60253621e381b1e02c49c3acd01ad65693436482",
     "/assets/CharacterPortraits/Loraine.png": "be10ba93d0cdb06c4d884987b8fa1280ed39d168",
     "/assets/CharacterPortraits/Lucy.png": "bad3a4672cea78c03ab9cf9a3d3f68c6ca01b45f",
     "/assets/CharacterPortraits/Lupina.png": "ac7cefd86e0abe6d644001c1d1d42aa3805081cf",
@@ -380,8 +382,8 @@
     "/assets/icons/sword_3.png": "89f1b1cac414e7149bd4652f2e885a9bc5888e83",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "e6422999bc48aae9dc65167686d378eefc00e00e",
-    "/index.html": "791531bd57bb1b00022f3150f3cbfbfcd7d81b2d",
-    "/main.2ed0a1fca2d3168c3311.js": "6d451677c2b9937b2eccd98d1d555a10082dbaf3",
+    "/index.html": "77a30c1a5812bdac5433b6bf549bd316964fc248",
+    "/main.4f2f9f0720cf65909079.js": "c58de36cc3dcc067817ca32c9d988ac8287a1475",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
