@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1636319192608,
+  "timestamp": 1636377854585,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -341,7 +341,7 @@
     "/assets/backgrounds/snow.png": "bd5fb3f81ebae8636faeee40128103d480a54ca0",
     "/assets/backgrounds/training.png": "c4990002db67ee97596c9ab460ce3509a34b020e",
     "/assets/blue_tile.png": "0b41c02dd7b0c57496f237bd51d0111a5ecef81e",
-    "/assets/blue_tile_kang.png": "1fb215243db96bab0ac23a37b3b889527ae383fd",
+    "/assets/blue_tile_kang.png": "31541b7e486dd3ef2cb90e28bebca24981e609ae",
     "/assets/element_icons_transparent/all.png": "370c34fd3e05daf24427ec929ab355b22fb08344",
     "/assets/element_icons_transparent/basic.png": "d114ff040d1e8fa735fb52deb591ca865824631a",
     "/assets/element_icons_transparent/dark.png": "e9d57b25851301b74e0f7f1f5a17e94a2299696b",
@@ -385,7 +385,7 @@
     "/assets/kang_blep.png": "3fa548d89bdb0456135ac72cb8a80e457c9ae376",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "b1725402bfa715bc89875d5dcb7ed132342e31d3",
-    "/assets/red_tile_kang.png": "e86b8739814e803e322610d6f51f691947e85bc8",
+    "/assets/red_tile_kang.png": "a82f8c18e9bba81095c529a62f4cfeaf36356350",
     "/index.html": "9b0f42c1f873522337ef7a5971ee556b8ceb3df8",
     "/main.204eaad57e033695391b.js": "6f926207dfebf8accf5eba03797c860ef162392b",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
