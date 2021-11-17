@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1636377854585,
+  "timestamp": 1637134532234,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.204eaad57e033695391b.js",
+        "/main.0bcb4126c0e3b2038cb0.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -201,6 +201,7 @@
         "/assets/icons/sword_2.png",
         "/assets/icons/sword_3.png",
         "/assets/kang_blep.png",
+        "/assets/kanna.png",
         "/assets/logo.png",
         "/assets/red_tile.png",
         "/assets/red_tile_kang.png"
@@ -383,11 +384,12 @@
     "/assets/icons/sword_2.png": "5d5e5a4145f3840101ffc3e08c70a35545884635",
     "/assets/icons/sword_3.png": "89f1b1cac414e7149bd4652f2e885a9bc5888e83",
     "/assets/kang_blep.png": "3fa548d89bdb0456135ac72cb8a80e457c9ae376",
+    "/assets/kanna.png": "141e74d6212e867b1ea4c175ff17fad9e90c8938",
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "b1725402bfa715bc89875d5dcb7ed132342e31d3",
     "/assets/red_tile_kang.png": "a82f8c18e9bba81095c529a62f4cfeaf36356350",
-    "/index.html": "9b0f42c1f873522337ef7a5971ee556b8ceb3df8",
-    "/main.204eaad57e033695391b.js": "6f926207dfebf8accf5eba03797c860ef162392b",
+    "/index.html": "550379a04894a35b9fa185d18b5c893d53513ece",
+    "/main.0bcb4126c0e3b2038cb0.js": "cd3bb0b65764892faeaa12ffa45defa3c05ac997",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
