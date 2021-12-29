@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1640683753003,
+  "timestamp": 1640801782042,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.201f2ee7f2c7bdd98622.js",
+        "/main.ae0d6b86b68e16aa6be9.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -43,6 +43,7 @@
         "/assets/CharacterPortraits/Boy.png",
         "/assets/CharacterPortraits/Carol.png",
         "/assets/CharacterPortraits/Catherine.png",
+        "/assets/CharacterPortraits/Clara.png",
         "/assets/CharacterPortraits/Coco.png",
         "/assets/CharacterPortraits/Craig.png",
         "/assets/CharacterPortraits/Dolf.png",
@@ -232,6 +233,7 @@
     "/assets/CharacterPortraits/Boy.png": "5944e86b8653367b48f4f376aa51e7be54e96c02",
     "/assets/CharacterPortraits/Carol.png": "a8558e1e1ce2e5a8b8021fcac04416cbc0ce7160",
     "/assets/CharacterPortraits/Catherine.png": "6361c5721cd6afe765a113dfdc4b4ce2b084958d",
+    "/assets/CharacterPortraits/Clara.png": "0033752313cb0e9d72a926d90e2562a0ae139427",
     "/assets/CharacterPortraits/Coco.png": "e705766ff1852dba6705d5773340b4487a9a4223",
     "/assets/CharacterPortraits/Craig.png": "9d1653465b04f90b53b373c08d1fa2a389902774",
     "/assets/CharacterPortraits/Dolf.png": "453040157ee856bd69eb1edf570659f416fcda1b",
@@ -400,8 +402,8 @@
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "b1725402bfa715bc89875d5dcb7ed132342e31d3",
     "/assets/red_tile_kang.png": "a82f8c18e9bba81095c529a62f4cfeaf36356350",
-    "/index.html": "cba44f6913f08bde188b51e52ed13e0cba52f35c",
-    "/main.201f2ee7f2c7bdd98622.js": "a94fc4975927ba9bcdd8d4446bef41c42a6b266d",
+    "/index.html": "eae78bcc425dd6f5798c3b5787184edd5ec1246b",
+    "/main.ae0d6b86b68e16aa6be9.js": "aa70e2fbfb1e3c553fb70675f8ff291c53d1bc16",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
