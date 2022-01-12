@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1641851648016,
+  "timestamp": 1642007405914,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.d3c9a4d93b7bb8db4c52.js",
+        "/main.102f99e3b02f9b89b695.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -92,6 +92,7 @@
         "/assets/CharacterPortraits/Noxia.png",
         "/assets/CharacterPortraits/Oghma.png",
         "/assets/CharacterPortraits/Orca.png",
+        "/assets/CharacterPortraits/Parvati.png",
         "/assets/CharacterPortraits/Plitvice.png",
         "/assets/CharacterPortraits/Rachel.png",
         "/assets/CharacterPortraits/Ranpang.png",
@@ -282,6 +283,7 @@
     "/assets/CharacterPortraits/Noxia.png": "0ddcdfc3c79f008f46948ff649344a822e594f78",
     "/assets/CharacterPortraits/Oghma.png": "67f2e3a0740a5cac8f6c50ca27fcc88489b51dd6",
     "/assets/CharacterPortraits/Orca.png": "0c514dca4cca3e2dba7c2b8fe193fc8bc28d7124",
+    "/assets/CharacterPortraits/Parvati.png": "5e77ed86b3993fdec5d35439ffc81dbc9c1a5956",
     "/assets/CharacterPortraits/Plitvice.png": "86d99d4d7e84d7b6e78f037f62ac1213c6cf3791",
     "/assets/CharacterPortraits/Rachel.png": "785cdeecdaacab752415d9ad32b6d2349ae37f27",
     "/assets/CharacterPortraits/Ranpang.png": "96df8a1f28b58f82b8a4d4e280923a80cdaa4b76",
@@ -402,8 +404,8 @@
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "b1725402bfa715bc89875d5dcb7ed132342e31d3",
     "/assets/red_tile_kang.png": "a82f8c18e9bba81095c529a62f4cfeaf36356350",
-    "/index.html": "fb7a86181a4c0ef85364eae19f2426be078543a3",
-    "/main.d3c9a4d93b7bb8db4c52.js": "2b3121a0a294852e30680a20c61d25510b3c5bf6",
+    "/index.html": "8223e69111d2ca56fe8f89ba3aec4e4f6abf194b",
+    "/main.102f99e3b02f9b89b695.js": "ca3bfb261303e9fd32a362e3eed82a5d362a994f",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
