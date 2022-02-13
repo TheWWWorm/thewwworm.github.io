@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1644528689901,
+  "timestamp": 1644786359002,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.87600966768630f53ab2.js",
+        "/main.0647d85898768c7f7777.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -161,6 +161,8 @@
         "/assets/CharacterPortraitsJP/Vishuvac.png",
         "/assets/CharacterPortraitsJP/White Beast.png",
         "/assets/CharacterPortraitsJP/Yuze.png",
+        "/assets/CharacterWeapons/Atomic Destroyer.png",
+        "/assets/CharacterWeapons/Cosmic Destroyer.png",
         "/assets/backgrounds/arena.png",
         "/assets/backgrounds/chess.png",
         "/assets/backgrounds/desert.png",
@@ -355,6 +357,8 @@
     "/assets/CharacterPortraitsJP/Vishuvac.png": "e93926df02fd9b128946ccfca00e8257120faaf0",
     "/assets/CharacterPortraitsJP/White Beast.png": "11b295405d24c70f87317a643a18515b4763cc5e",
     "/assets/CharacterPortraitsJP/Yuze.png": "4d679e0956c1d5e621933933829053457ded57eb",
+    "/assets/CharacterWeapons/Atomic Destroyer.png": "8199ecf0431628ecc3038021fb744f294757bc43",
+    "/assets/CharacterWeapons/Cosmic Destroyer.png": "fac81e3a06a7ac23267e5d75190f06b07b5119eb",
     "/assets/backgrounds/arena.png": "994e8d68bc142c143ab41b1af248a495133c7232",
     "/assets/backgrounds/chess.png": "7a5de6ffa99f0ab9a86e4a6b173f338e49f2bf25",
     "/assets/backgrounds/desert.png": "6c6d60615f412a31383bac622bb424c1a9f9b6e6",
@@ -410,8 +414,8 @@
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "b1725402bfa715bc89875d5dcb7ed132342e31d3",
     "/assets/red_tile_kang.png": "a82f8c18e9bba81095c529a62f4cfeaf36356350",
-    "/index.html": "e7e6b9eef53b55122934d228198e2de9c4d64509",
-    "/main.87600966768630f53ab2.js": "b18688a7aa525900e958f4b18f7b261a53e02083",
+    "/index.html": "6f5e5394c540a1996c97929c38b51104edf57f19",
+    "/main.0647d85898768c7f7777.js": "872edbab73bd6cbe379b2a11f20b28878f4942e1",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
