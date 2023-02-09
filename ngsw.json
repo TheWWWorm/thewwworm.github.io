@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1674265244620,
+  "timestamp": 1675968118617,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.8d8c06425641727c4a87.js",
+        "/main.ddf8d55cc3c948ba71d8.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -114,6 +114,7 @@
         "/assets/CharacterPortraits/Ranpang.png",
         "/assets/CharacterPortraits/Rey.png",
         "/assets/CharacterPortraits/Rie.png",
+        "/assets/CharacterPortraits/Rosetta.png",
         "/assets/CharacterPortraits/Rue.png",
         "/assets/CharacterPortraits/Scintilla.png",
         "/assets/CharacterPortraits/Shapira.png",
@@ -342,6 +343,7 @@
     "/assets/CharacterPortraits/Ranpang.png": "96df8a1f28b58f82b8a4d4e280923a80cdaa4b76",
     "/assets/CharacterPortraits/Rey.png": "d0703ecceb0d066a68a852ea3c5dffc14b549c4b",
     "/assets/CharacterPortraits/Rie.png": "e0db8c5c045d42d41600245c46c589f96191b6f3",
+    "/assets/CharacterPortraits/Rosetta.png": "d7912ecb458c045d7f97fa8d52350154a9649a54",
     "/assets/CharacterPortraits/Rue.png": "a4b4267763917b93de76b33aa282353a4c27a90c",
     "/assets/CharacterPortraits/Scintilla.png": "233a0c6389e8c95f70ab28f1270f56103f0d3cd4",
     "/assets/CharacterPortraits/Shapira.png": "d7d48b0fc232db6eaf277c6167a24175cd3f7d54",
@@ -478,8 +480,8 @@
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "b1725402bfa715bc89875d5dcb7ed132342e31d3",
     "/assets/red_tile_kang.png": "a82f8c18e9bba81095c529a62f4cfeaf36356350",
-    "/index.html": "062d2eef8bd2556b66dc61690e997d1c89321972",
-    "/main.8d8c06425641727c4a87.js": "3e5da0ea7abfd4a7f42cbb249665bc1a914594b7",
+    "/index.html": "f22cd40d2110ca3e6509102d0154c27d95d35594",
+    "/main.ddf8d55cc3c948ba71d8.js": "4054711c5dbbdae99c99ef97bd05e6208e029521",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
