@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1677182292091,
+  "timestamp": 1677432176168,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.61fb5aca1f022b7d91d1.js",
+        "/main.1c9c59d755ff3a133318.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -129,6 +129,7 @@
         "/assets/CharacterPortraits/Veronica.png",
         "/assets/CharacterPortraits/Vishuvac.png",
         "/assets/CharacterPortraits/White Beast.png",
+        "/assets/CharacterPortraits/White Snow.png",
         "/assets/CharacterPortraits/Xelloss.png",
         "/assets/CharacterPortraits/Yuze.png",
         "/assets/CharacterPortraits/kang.gif",
@@ -381,6 +382,7 @@
     "/assets/CharacterPortraits/Veronica.png": "9e6b54c874649f4fff54da0a9b9d031d404091f9",
     "/assets/CharacterPortraits/Vishuvac.png": "b30830dcef875fa4de79b77544ba3afe1b4e0bed",
     "/assets/CharacterPortraits/White Beast.png": "ff3b84056dae66f72cc59e5f37579a56dc782514",
+    "/assets/CharacterPortraits/White Snow.png": "b8e4d2b61c73c3064f0a7935986dfabd9c2f5961",
     "/assets/CharacterPortraits/Xelloss.png": "f8daa4555a580586be42e08b04d34deaae461acf",
     "/assets/CharacterPortraits/Yuze.png": "8a72e10a80d15c777e4004df33ca8720f4e608ed",
     "/assets/CharacterPortraits/kang.gif": "6257ca52ca2350c19f438782b529f9cff15dc471",
@@ -526,8 +528,8 @@
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "b1725402bfa715bc89875d5dcb7ed132342e31d3",
     "/assets/red_tile_kang.png": "a82f8c18e9bba81095c529a62f4cfeaf36356350",
-    "/index.html": "4fae83549a9d81637aae4d525064bc74b7480ada",
-    "/main.61fb5aca1f022b7d91d1.js": "0a14acc59d2f8bed426ac2609d68096e318ae215",
+    "/index.html": "19fc3c53eeda40d4fa980ba442df4247d8994b70",
+    "/main.1c9c59d755ff3a133318.js": "4e84d6f94491967e3c5bd540df6f1b78761e131a",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
