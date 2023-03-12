@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1677432176168,
+  "timestamp": 1678612361190,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -195,6 +195,7 @@
         "/assets/CharacterPortraitsJP/Oghma.png",
         "/assets/CharacterPortraitsJP/Parvati.png",
         "/assets/CharacterPortraitsJP/Plitvice.png",
+        "/assets/CharacterPortraitsJP/Priscilla.png",
         "/assets/CharacterPortraitsJP/Rachel.png",
         "/assets/CharacterPortraitsJP/Ranpang.png",
         "/assets/CharacterPortraitsJP/Rie.png",
@@ -448,6 +449,7 @@
     "/assets/CharacterPortraitsJP/Oghma.png": "f3b39f6472e0c2b605a0c137312c0e9bcdb61548",
     "/assets/CharacterPortraitsJP/Parvati.png": "e3a8af7721905431ac5e876137a9b342e6ba81f8",
     "/assets/CharacterPortraitsJP/Plitvice.png": "be0454662e230fb737906c2d312ad029af7e5bb0",
+    "/assets/CharacterPortraitsJP/Priscilla.png": "f576c1928bd6470cf544451be56ff3607a8c6893",
     "/assets/CharacterPortraitsJP/Rachel.png": "88b447335ae504971e92b59a2eaf876f9f69a398",
     "/assets/CharacterPortraitsJP/Ranpang.png": "eac308085f870439cde42a3575c5e31dace60ae8",
     "/assets/CharacterPortraitsJP/Rie.png": "15bd9939261d82d2ceb39535c1edfa5879d15429",
@@ -528,7 +530,7 @@
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "b1725402bfa715bc89875d5dcb7ed132342e31d3",
     "/assets/red_tile_kang.png": "a82f8c18e9bba81095c529a62f4cfeaf36356350",
-    "/index.html": "19fc3c53eeda40d4fa980ba442df4247d8994b70",
+    "/index.html": "e33ba8bc527eb70322d90f183a8967a24124bc0c",
     "/main.1c9c59d755ff3a133318.js": "4e84d6f94491967e3c5bd540df6f1b78761e131a",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
