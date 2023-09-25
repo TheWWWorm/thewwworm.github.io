@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1693295355334,
+  "timestamp": 1695657287784,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.19de8db2095ef9ef499a.js",
+        "/main.735a59fa1b7940e7d780.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -136,6 +136,7 @@
         "/assets/CharacterPortraits/Tinia.png",
         "/assets/CharacterPortraits/Valencia.png",
         "/assets/CharacterPortraits/Veronica.png",
+        "/assets/CharacterPortraits/Vinette.png",
         "/assets/CharacterPortraits/Vishuvac.png",
         "/assets/CharacterPortraits/White Beast.png",
         "/assets/CharacterPortraits/White Snow.png",
@@ -409,6 +410,7 @@
     "/assets/CharacterPortraits/Tinia.png": "5aa1eae0b79ea5e2456b5428eb1aeb4aae14efb9",
     "/assets/CharacterPortraits/Valencia.png": "2655468d036656d52974f10651c9eaedaed757c0",
     "/assets/CharacterPortraits/Veronica.png": "9b5cd9e871a93737bd35aca2bb9871ac840377d2",
+    "/assets/CharacterPortraits/Vinette.png": "05bf9fe0453b7eeb7b88dbb94093f4be013441c3",
     "/assets/CharacterPortraits/Vishuvac.png": "0e1443c138fd18ad161845479b4392c3448bab90",
     "/assets/CharacterPortraits/White Beast.png": "b0b66d25f0794c179f224ebd46957227bf25d659",
     "/assets/CharacterPortraits/White Snow.png": "fadeb4786fc1d9aa06cb15a47972b01094551e20",
@@ -568,8 +570,8 @@
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "b1725402bfa715bc89875d5dcb7ed132342e31d3",
     "/assets/red_tile_kang.png": "a82f8c18e9bba81095c529a62f4cfeaf36356350",
-    "/index.html": "a8da26b46158adcf7576c31dc719f7cec200a604",
-    "/main.19de8db2095ef9ef499a.js": "a593d660d7a597786ff28858f128dd64769edaed",
+    "/index.html": "bf12c10ff0ab9feb985f52018e632f06f7678980",
+    "/main.735a59fa1b7940e7d780.js": "99cf40f46f3b98f000469e7bccb8508c62d0ebb4",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
