@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1714813050632,
+  "timestamp": 1715064978494,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.8f0db984865bffac7a5e.js",
+        "/main.b1aa79275553079b89c6.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -596,8 +596,8 @@
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "b1725402bfa715bc89875d5dcb7ed132342e31d3",
     "/assets/red_tile_kang.png": "a82f8c18e9bba81095c529a62f4cfeaf36356350",
-    "/index.html": "36cbca55d8a0d95e8d9328dcd8915b96c0b85a18",
-    "/main.8f0db984865bffac7a5e.js": "3745768ba0690ae967715a4209ae40a44cc1dba2",
+    "/index.html": "d3cb705d8f7a7a1d1074f0f7faf4a4832b110483",
+    "/main.b1aa79275553079b89c6.js": "3d91b76040a5cc27d30b6ef50b80ca9ffd24d82b",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
