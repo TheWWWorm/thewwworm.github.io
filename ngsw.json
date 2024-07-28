@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1721861374576,
+  "timestamp": 1722184958300,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.f496491a97849495eb9f.js",
+        "/main.7e05cf29e994b1210846.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -60,6 +60,7 @@
         "/assets/CharacterPortraits/Craig.png",
         "/assets/CharacterPortraits/Craig_Ascended.png",
         "/assets/CharacterPortraits/Crosselle.png",
+        "/assets/CharacterPortraits/Dabin.png",
         "/assets/CharacterPortraits/Dai.png",
         "/assets/CharacterPortraits/Dolf.png",
         "/assets/CharacterPortraits/Eleanor.png",
@@ -353,6 +354,7 @@
     "/assets/CharacterPortraits/Craig.png": "39366e8ec8fd313e289f3fff6c016bcf8a8df25c",
     "/assets/CharacterPortraits/Craig_Ascended.png": "decaaf18f68ba21a0016050247bea67d31dd5137",
     "/assets/CharacterPortraits/Crosselle.png": "25e91a57560779646e6451e1bb6f0b220fdbe931",
+    "/assets/CharacterPortraits/Dabin.png": "94c8acd0f6d60f489a39701c7b544a24b0abe8bc",
     "/assets/CharacterPortraits/Dai.png": "134af00b9f258b16151a964e0ebdf9d622614d6a",
     "/assets/CharacterPortraits/Dolf.png": "5bcfad8547b1b11cdc93b6876405e7d522bc2586",
     "/assets/CharacterPortraits/Eleanor.png": "0c6da57ff438bcdd673df60263665bd575bf1c93",
@@ -608,8 +610,8 @@
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "b1725402bfa715bc89875d5dcb7ed132342e31d3",
     "/assets/red_tile_kang.png": "a82f8c18e9bba81095c529a62f4cfeaf36356350",
-    "/index.html": "430df1533db8022d3da37e6d8841506ae061c31a",
-    "/main.f496491a97849495eb9f.js": "9dc9180ffc62cf8668b61bc73aa838611b6cd61e",
+    "/index.html": "057f7265152b041cd0d47a741fb1359cb612b7ff",
+    "/main.7e05cf29e994b1210846.js": "6259f08433e2e9eb674b6d73acf4f8f6ad46efbb",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
