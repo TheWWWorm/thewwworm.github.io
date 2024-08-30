@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1724084304821,
+  "timestamp": 1725013607737,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,7 +12,7 @@
       },
       "urls": [
         "/index.html",
-        "/main.743eafaf0746716e4215.js",
+        "/main.3980387d4ca3c40ec4e7.js",
         "/manifest.webmanifest",
         "/polyfills.caeb49329ad61e6352bf.js",
         "/runtime.955334ddc3f34facd3e0.js",
@@ -254,7 +254,9 @@
         "/assets/CharacterWeapons/Innocent.png",
         "/assets/CharacterWeapons/Libera Type.B.png",
         "/assets/CharacterWeapons/Libera.png",
+        "/assets/CharacterWeapons/Mayreel.png",
         "/assets/CharacterWeapons/Nightmare.png",
+        "/assets/CharacterWeapons/Pino.png",
         "/assets/CharacterWeapons/Prominence.png",
         "/assets/CharacterWeapons/Pure Mind.png",
         "/assets/CharacterWeapons/Radiant.png",
@@ -549,7 +551,9 @@
     "/assets/CharacterWeapons/Innocent.png": "dfddd0137f7786756e1b693c66a4b296ac605c90",
     "/assets/CharacterWeapons/Libera Type.B.png": "9fcbdf8f7265d49e8dc488161173b14de62ef126",
     "/assets/CharacterWeapons/Libera.png": "8c9946304c62e96138ecc238a8c7b28e2c27a523",
+    "/assets/CharacterWeapons/Mayreel.png": "d336076869cc7dc52d496d262db44822fd57d8b9",
     "/assets/CharacterWeapons/Nightmare.png": "8890443c133442fba24aae61d66c6f0d1bc6f69e",
+    "/assets/CharacterWeapons/Pino.png": "7c5826d33a22a0e04ef4cf665af926a691e1b986",
     "/assets/CharacterWeapons/Prominence.png": "079423b260d602620ba999d5c22345634cb7c0bf",
     "/assets/CharacterWeapons/Pure Mind.png": "3e5dbf3e97083606d25ba59e8b1dcd3783dd1555",
     "/assets/CharacterWeapons/Radiant.png": "a89c22f02f42111ac8f006a403c75c107ee5e334",
@@ -612,8 +616,8 @@
     "/assets/logo.png": "a94c410ce335b7877853b979af8ccd086ee44108",
     "/assets/red_tile.png": "b1725402bfa715bc89875d5dcb7ed132342e31d3",
     "/assets/red_tile_kang.png": "a82f8c18e9bba81095c529a62f4cfeaf36356350",
-    "/index.html": "ae390218dc38dc04aea6c853a8f2fa344dd92e05",
-    "/main.743eafaf0746716e4215.js": "274c7fe24d53da22f07ccaa0a90ed483914e4690",
+    "/index.html": "1dada5271b6cf6f853d5213f6d1756ae6d1caaea",
+    "/main.3980387d4ca3c40ec4e7.js": "6ebe573c8907a45a49f0f5d0a724270accc64581",
     "/manifest.webmanifest": "02b615ec3e0f8ac61209cdc09c34fe0240b31ca1",
     "/polyfills.caeb49329ad61e6352bf.js": "f6585056a0604db221070f0d5f383526bdd21a50",
     "/runtime.955334ddc3f34facd3e0.js": "388065a83ad7d6da3edd398e0b8364ce07804d53",
